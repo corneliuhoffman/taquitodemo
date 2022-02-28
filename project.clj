@@ -12,7 +12,9 @@
                  [cljs-await "1.0.2"]
                  [reagent "1.1.0"]
                  [cljsjs/react "17.0.2-0"]
-                 [cljsjs/react-dom "17.0.2-0"]]
+                 [cljsjs/react-dom "17.0.2-0"]
+                  [cljsjs/blockly "3.20200123.1-0"]
+                 [org.parkerici/blockoid "0.3.5"]]
 
   :plugins [[lein-figwheel "0.5.20"]
             [lein-cljsbuild "1.1.7" :exclusions [[org.clojure/clojure]]]]
