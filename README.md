@@ -4,7 +4,7 @@ Really minimal demo of Taquito in clojurescript
 
 ## Overview
 
-Not much yet, just a stort exampl of rendering a balance
+Not much yet, just a stort example of rendering a balance
 
 ## Setup
 
